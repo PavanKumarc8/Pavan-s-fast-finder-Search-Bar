@@ -1,6 +1,3 @@
-Here's a clean and well-structured `README.md` template for your project that will make it look professional and appealing:
-
-```md
 # Fast Finder 🌍🔍
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/status)](https://app.netlify.com/sites/pavan-fast-finder-search-bar/deploys)
@@ -100,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/PavanKumarc8)
+Made with ❤️ by [Pavan Kumar Pattipu](https://github.com/PavanKumarc8)
 
 ### Key Sections:
 - **Title and Description**: Includes a short, clear description of the app.
